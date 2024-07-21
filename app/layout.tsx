@@ -16,8 +16,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={satoshi.className}>
-        <div className="container mx-auto">
+      <body className={`${satoshi.className} scroll-smooth`}>
+        <div className="container mx-auto px-4">
           <Header />
           {children}
         </div>
