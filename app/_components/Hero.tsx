@@ -9,14 +9,12 @@ export default function Hero() {
       <div className="flex gap-4">
         <Chip>About</Chip>
         <p className="text-2xl text-zinc-900 leading-8">
-          Hi there! I&apos;m an experienced Frontend Developer with a strong
-          background in JavaScript, TypeScript, React, and Next.js. I have a
-          passion for creating efficient and user-friendly web applications. My
-          journey in web development has equipped me with skills in Redux,
-          TanStack Query, Styled Components, Tailwind, Supabase, React Router,
-          and NextAuth. Additionally, I have some knowledge of Node.js, MongoDB,
-          and Express.js, which allows me to understand and collaborate
-          effectively on full-stack projects.
+          Hi there! I&apos;m Ramo, a passionate Frontend Developer from{" "}
+          <a>Bosnia and Herzegovina</a>. I love creating beautiful and efficient
+          web applications and bringing creative ideas to life. When I&apos;m
+          not coding, I&apos;m either playing games or spending time with
+          friends and family. I&apos;m always excited to take on new projects
+          and collaborate with others to make amazing things happen.
         </p>
       </div>
     </section>

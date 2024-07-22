@@ -1,11 +1,12 @@
 import Link from "next/link";
 import Chip from "./Chip";
+import Logo from "./Logo";
 
 export default function Header() {
   return (
     <header className="flex justify-between items-center py-12">
       <div className="flex items-center gap-4">
-        <h4 className="text-4xl font-medium text-zinc-900">Ramo Okić</h4>
+        <Logo />
         <Chip>Frontend Developer</Chip>
       </div>
       <Link
