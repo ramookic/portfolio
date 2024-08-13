@@ -6,7 +6,7 @@ export default function Hero() {
       <h1 className="text-7xl text-zinc-900 font-medium border-b border-b-zinc-200 pb-28">
         I&apos;m Ramo Okić, Frontend Developer.
       </h1>
-      <div className="flex gap-4">
+      <div className="flex flex-col md:flex-row gap-4">
         <Chip>About</Chip>
         <p className="text-2xl text-zinc-900 leading-8">
           Hi there! I&apos;m Ramo, a passionate Frontend Developer from{" "}

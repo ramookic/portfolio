@@ -56,7 +56,7 @@ export default function Skills() {
             key={skill.id}
             className="flex flex-col gap-4 items-center justify-center mx-auto"
           >
-            <div className="px-14 md:px-18 py-14 bg-zinc-100 text-6xl rounded-3xl text-zinc-700 ">
+            <div className="px-12 md:px-18 py-12  md:py-18 bg-zinc-100 text-6xl rounded-3xl text-zinc-700 ">
               {skill.icon}
             </div>
             <p className="text-zinc-800 font-medium text-lg">{skill.name}</p>

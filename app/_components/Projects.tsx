@@ -17,10 +17,10 @@ const projects = [
   },
   {
     id: 2,
-    name: "Bubble",
-    description: "Point of Sale System",
-    link: "https://github.com/ramookic/bubble",
-    stack: "Next.js, TypeScript, TailwindCSS, NextUI, Supabase",
+    name: "Expenso",
+    description: "Expense Tracker",
+    link: "https://github.com/ramookic/expenso",
+    stack: "Next.js, TypeScript, TailwindCSS, Shadcn, Supabase, Jest",
   },
 ];
 
