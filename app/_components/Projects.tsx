@@ -12,7 +12,7 @@ const projects = [
     id: 1,
     name: "Squezie",
     description: "Bulk Image Compressor",
-    link: "https://github.com/ramookic/squezie",
+    link: "https://squezie.com",
     stack: "Next.js, Browser Image Compression",
   },
   {
